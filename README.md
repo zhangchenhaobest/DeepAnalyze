@@ -1,3 +1,29 @@
+# DeepAnalyze
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The first agentic LLM for autonomous data science, analyzing large datasets and generating professional reports in one click.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+首个面向自主数据科学的智能体 LLM，可自动分析大量数据并一键生成专业分析报告。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center" width="100%">
 <img src="assets/logo.png" alt="DeepAnalyze" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
